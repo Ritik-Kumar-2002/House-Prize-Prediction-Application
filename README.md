@@ -2,7 +2,7 @@
 
 A Machine Learning based web application that predicts house prices based on various property features such as area, number of bedrooms, bathrooms, stories, furnishing status, parking availability, and more.
 
-## 🚀 Project Overview
+## 🔍 Project Overview
 
 This project uses a Multiple Linear Regression model to estimate house prices from user-provided inputs. The model was trained on a housing dataset and deployed using Streamlit to provide an interactive user interface.
 
@@ -46,11 +46,11 @@ The model uses the following features for prediction:
 
 | Metric | Score |
 |--------|-------|
-| R² Score | 0.68 |
+| R² Score | 0.65 |
 
-The model explains approximately **68%** of the variance in house prices.
+The model explains approximately **65%** of the variance in house prices.
 
-## ▶️ How to Run
+##  How to Run
 1. Clone the repository
 
 ```bash
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Demo
+## ▶️ Demo
 Link: https://drive.google.com/file/d/1Kajn2jUhTsCkLkd_PYrfBbw0Kj0lJIvn/view?usp=sharing
 
 # Deployed Link
@@ -79,4 +79,4 @@ Link: https://ritik-kumar-2002-house-prize-prediction-application-app-mxeryz.str
 
 **Ritik Kumar**
 
-Assistant System Engineer at TCS | GATE CSE Qualified | Aspiring AI/ML Engineer
+System Engineer at TCS | AI/ML Enthusiast
