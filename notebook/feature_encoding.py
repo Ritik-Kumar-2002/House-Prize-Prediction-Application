@@ -1,10 +1,9 @@
 
 from sklearn.preprocessing import OrdinalEncoder
-from sklearn.preprocessing import OneHotEncoder
 
 def feature_encoding(df):
     binary_col = df.select_dtypes("object").drop(columns=['furnishingstatus']).columns
-    ordinal_col = ['furnishingstatus']
+    # ordinal_col = ['furnishingstatus']
 
 
     # Binary Encoding
