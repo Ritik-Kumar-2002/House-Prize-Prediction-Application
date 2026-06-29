@@ -72,13 +72,8 @@ streamlit run app.py
 ## Demo
 Link: https://drive.google.com/file/d/1Kajn2jUhTsCkLkd_PYrfBbw0Kj0lJIvn/view?usp=sharing
 
-## 🎯 Future Improvements
-
-- Improve prediction accuracy using advanced regression models.
-- Hyperparameter tuning.
-- Feature engineering.
-- Model comparison with Random Forest and XGBoost.
-- Deploy the application on Streamlit Cloud.
+# Deployed Link
+Link: https://ritik-kumar-2002-house-prize-prediction-application-app-mxeryz.streamlit.app/
 
 ## 👨‍💻 Author
 
